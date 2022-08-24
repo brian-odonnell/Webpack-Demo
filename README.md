@@ -8,3 +8,9 @@ This is a basic Webpack starting point created by following [this tutorial](http
 * Asset Resource Loaders
 * Source Maps
 * Cache Busting Hashes
+
+I did not complete the working app that is finished in the tutorial because I did not want to add baggage that I would not use in future sites since this is to serve as a starting point.
+
+## Commands
+* npm run dev: Starts a dev server at localhost:1234 and watches the code for any changes
+* npm run build: Builds the project to the /dist folder
